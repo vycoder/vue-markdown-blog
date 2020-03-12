@@ -3,7 +3,7 @@
 
 ## Getting started
 ```
-git clone https://github.com/josephharveyangeles/vue-markdown-blog
+git clone https://github.com/vycoder/vue-markdown-blog
 cd vue-markdown-blog
 yarn install
 yarn serve
